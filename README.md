@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>Xavier's Bio</h1>
+    <h1 style="color:'red'">Xavier's Bio</h1>
     <p>Greetings, I'm an idiot with a compiler. You can contact me on...</p>
     <ul>
       <li><b>Discord</b>: <code>[> Xavier <]#7339</code></li>
