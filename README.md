@@ -1,1 +1,1 @@
-did you know windows has a built in method to instantly crash the system
+failing all their classes but hey, funny chat thing!
