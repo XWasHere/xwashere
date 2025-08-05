@@ -1,1 +1,1 @@
-I am XWASHERE, I am a contributor to [The Genesis Project](https://sburb.me). Most of my current projects are hosted on my private Git server due to Microsoft and GitHub's use of user data for Generative AI training. Most of my old projects and my SS14 contributions are hosted here.
+I am a contributor to [The Genesis Project](https://sburb.me). Most of my current projects are hosted on my private git server due to Microsoft and GitHub's use of user data for generative ai training. Most of my old projects and my SS14 contributions are hosted here.
